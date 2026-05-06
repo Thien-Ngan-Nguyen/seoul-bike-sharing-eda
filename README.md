@@ -58,13 +58,6 @@ Seasonal and time-based patterns play an important role in user behaviour.
 
 An additional analysis was performed using correlation-based exploration to identify relationships between multiple variables simultaneously. This provided deeper insights into how environmental factors interact to influence bike usage patterns.
 
-📁 Project Structure
-seoul-bike-sharing-eda/
-│
-├── firstname_lastname.py     # Main analysis code
-├── report.pdf                # Figures and written analysis
-├── seoul_bike_data.csv      # Dataset
-└── README.md                # Project documentation
 🎯 Conclusion
 
 This project demonstrates a full data analysis workflow including data cleaning, statistical analysis, and multi-variable visualisation. The findings highlight how environmental conditions significantly influence urban bike-sharing demand.
